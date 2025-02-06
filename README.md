@@ -14,6 +14,9 @@ Hay 8 posts, uno por equipo, pero como los he traducido tambien al ingles hay 16
 ## Paginas
 He creado 4 paginas, en una de ellas hay un formulario de contacto que estara en soporte, otra pagina son los equipos y la ubicacion de los estadios y en otra he puesto las webs oficiales de los equipos.
 
+## Categorias
+He creado un total de 10 caregorias, con las 5 ligas de los equipos, es decir, La Liga EA Sports, Premier, Bundesliga, Serie A y Eredivise. Las otras 5 categorias son las mismas ligas pero en ingles
+
 ## Plugins
 He puesto 2 plugins sin contar los que venian por defecto, el Polylang que sirve para traducir paginas y posts, y el otro plugin se llama Advanced ads, que es para poner publicidad en las paginas que quieras (En mi caso la publicidad la he puesto en la pagina de estadios, abajo del todo)
 
