@@ -11,7 +11,7 @@ En el menu se muestran las 5 ligas de los 8 equipos que hay y dentro de esas cat
 Hay 8 posts, uno por equipo, pero como los he traducido tambien al ingles hay 16, son los 8 posts y los otros 8 traducidos.
 
 ## Paginas
-He creado 2 paginas, en una de ellas hay un formulario de contacto que estara en soporte y la otra pagina son los equipos y la ubicacion de los estadios
+He creado 3 paginas, en una de ellas hay un formulario de contacto que estara en soporte y la otra pagina son los equipos y la ubicacion de los estadios, al final de esa pagina, saldra un link para accedes a la tercera pagina, que son las paginas oficiales de los equipos
 
 ## Categorias
 He creado un total de 11 caregorias, con las 5 ligas de los equipos, es decir, La Liga EA Sports, Premier, Bundesliga, Serie A y Eredivise. Las otras 5 categorias son las mismas ligas pero en ingles. y una categoria llamada English dondde dentro estan las otras categorias de las ligas en ingles
